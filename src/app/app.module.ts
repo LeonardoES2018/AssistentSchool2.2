@@ -11,10 +11,6 @@ import { TelaCadastroPage } from '../pages/tela-cadastro/tela-cadastro';
 import { TelaInicialAlunoPage } from '../pages/tela-inicial-aluno/tela-inicial-aluno';
 import { TelaDisciplinasAlunoPage } from '../pages/tela-disciplinas-aluno/tela-disciplinas-aluno';
 import { TelaInicialProfessorPage } from '../pages/tela-inicial-professor/tela-inicial-professor';
-<<<<<<< HEAD
-=======
-import { TelaSalasProfessorPage } from '../pages/tela-salas-professor/tela-salas-professor';
->>>>>>> Quarto Commit
 
 @NgModule({
   declarations: [
@@ -24,12 +20,7 @@ import { TelaSalasProfessorPage } from '../pages/tela-salas-professor/tela-salas
     TelaCadastroPage,
     TelaInicialAlunoPage,
     TelaDisciplinasAlunoPage,
-<<<<<<< HEAD
     TelaInicialProfessorPage
-=======
-    TelaInicialProfessorPage,
-    TelaSalasProfessorPage
->>>>>>> Quarto Commit
   ],
   imports: [
     BrowserModule,
@@ -43,12 +34,7 @@ import { TelaSalasProfessorPage } from '../pages/tela-salas-professor/tela-salas
     TelaCadastroPage,
     TelaInicialAlunoPage,
     TelaDisciplinasAlunoPage,
-<<<<<<< HEAD
     TelaInicialProfessorPage
-=======
-    TelaInicialProfessorPage,
-    TelaSalasProfessorPage
->>>>>>> Quarto Commit
   ],
   providers: [
     StatusBar,
